@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="background">background</string>
+    <string name="logo">logo</string>
+    <string name="header_slide1">Diagnosa Penyakit Sapi</string>
+    <string name="description_slide1">Aplikasi Ini Mendiagnosa 4 Penyakit Sapi, Diantaranya PMK, Antraks, Kembung dan Hamil</string>
+    <string name="mulai">Mulai</string>
+    <string name="question">Apakah Sapi Lesuh / Lemah ?</string>
+    <string name="question2">Apakah sapi anda nafsu makannya berkurang ?</string>
+</resources>
